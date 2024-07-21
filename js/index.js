@@ -157,6 +157,11 @@
 //   console.log(i ** 2);
 // }
 
+//15-masala
+// for (let i = 97; i <= 122; i++) {
+//   console.log(String.fromCharCode(i));
+// }
+
 //  Boolean ga oid masalalar
 //1-masala
 // let A = +prompt("A sonni kiriting");
@@ -216,9 +221,9 @@
 // }
 
 //6-masala
-let num = 57;
-if (num > 9 && num < 100 && num % 2 == 0) {
-  console.log(true);
-} else {
-  console.log(false);
-}
+// let num = 57;
+// if (num > 9 && num < 100 && num % 2 == 0) {
+//   console.log(true);
+// } else {
+//   console.log(false);
+// }
